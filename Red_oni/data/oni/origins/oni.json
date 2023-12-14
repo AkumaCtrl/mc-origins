@@ -1,0 +1,8 @@
+{
+    "name": "oni",
+    "description": "fun test",
+    "powers": [
+        "oni:power"
+    ],
+    "impact": 0
+}

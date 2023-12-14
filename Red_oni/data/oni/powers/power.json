@@ -1,0 +1,10 @@
+{
+    "name": "power",
+    "description": "fun power",
+    "loading_priority": 1,
+    "condition": {
+        "type": "origins:constant",
+        "value": false
+    },
+    "type": "origins:fire_immunity"
+}
